@@ -22,6 +22,20 @@ $ chmod +x install.sh
 $ yes | ./install.sh
 ```
 
+## Uninstall
+
+### Step 1: Allow execute shell script
+
+```sh
+$ chmod +x uninstall.sh
+```
+
+### Step 2: Run `install.sh` file
+
+```sh
+$ yes | ./uninstall.sh
+```
+
 ## License
 
 MIT
