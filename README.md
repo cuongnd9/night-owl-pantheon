@@ -2,6 +2,8 @@
 
 > 🌌🦉Night Owl theme for Pantheon terminal.
 
+![Night Owl Pantheon terminal](https://user-images.githubusercontent.com/34389409/59966778-33767d80-954b-11e9-8c3c-5702fa44c440.png)
+
 ## Install
 
 ### Step 1: Clone this project
