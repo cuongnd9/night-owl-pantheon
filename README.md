@@ -32,7 +32,7 @@ $ yes | ./install.sh
 $ chmod +x uninstall.sh
 ```
 
-### Step 2: Run `install.sh` file
+### Step 2: Run `uinstall.sh` file
 
 ```sh
 $ yes | ./uninstall.sh
