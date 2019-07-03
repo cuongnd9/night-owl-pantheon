@@ -1,8 +1,11 @@
 # night-owl-pantheon
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors)
+[![Hits-of-Code](https://hitsofcode.com/github/cuongw/night-owl-pantheon)](https://hitsofcode.com/view/github/cuongw/night-owl-pantheon)
+[![GitHub](https://img.shields.io/github/license/cuongw/night-owl-pantheon.svg)](https://github.com/cuongw/night-owl-pantheon/blob/master/LICENSE)
+
 > 🌌🦉Night Owl theme for Pantheon terminal.
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors)
 ![Night Owl Pantheon terminal](https://user-images.githubusercontent.com/34389409/59966778-33767d80-954b-11e9-8c3c-5702fa44c440.png)
 
 ## Install
@@ -39,7 +42,7 @@ $ chmod +x uninstall.sh
 $ yes | ./uninstall.sh
 ```
 
-*Note*: for `quick option`, require `dconf-tools` was installed.
+**Note**: for `quick options`, require `dconf-tools` was installed.
 
 ## Contributors
 
