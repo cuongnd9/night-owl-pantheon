@@ -42,8 +42,6 @@ $ chmod +x uninstall.sh
 $ yes | ./uninstall.sh
 ```
 
-**Note**: for `quick options`, require `dconf-tools` was installed.
-
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
