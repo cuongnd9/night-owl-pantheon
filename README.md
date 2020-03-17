@@ -13,7 +13,7 @@
 ### Step 1: Clone this project
 
 ```sh
-$ https://github.com/cuongw/night-owl-pantheon.git && cd night-owl-pantheon
+$ git clone https://github.com/cuongw/night-owl-pantheon.git && cd night-owl-pantheon
 ```
 
 ### Step 2: Allow execute shell script
