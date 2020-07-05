@@ -10,22 +10,14 @@
 
 ## Install
 
-### Step 1: Clone this project
-
 ```sh
-$ git clone https://github.com/cuongw/night-owl-pantheon.git && cd night-owl-pantheon
-```
-
-### Step 2: Run `install.sh` file
-
-```sh
-$ yes | ./install.sh
+$ sh -c "$(curl -sSL https://raw.githubusercontent.com/103cuong/night-owl-pantheon/master/install.sh)"
 ```
 
 ## Uninstall
 
 ```sh
-$ yes | ./uninstall.sh
+$ sh -c "$(curl -sSL https://raw.githubusercontent.com/103cuong/night-owl-pantheon/master/uninstall.sh)"
 ```
 
 ## Contributors
