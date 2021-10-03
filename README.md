@@ -1,7 +1,7 @@
 # night-owl-pantheon
 
-[![Hits-of-Code](https://hitsofcode.com/github/kimcuong060498/night-owl-pantheon)](https://hitsofcode.com/view/github/kimcuong060498/night-owl-pantheon)
-[![GitHub](https://img.shields.io/github/license/kimcuong060498/night-owl-pantheon.svg)](https://github.com/kimcuong060498/night-owl-pantheon/blob/master/LICENSE)
+[![Hits-of-Code](https://hitsofcode.com/github/harrytran103/night-owl-pantheon)](https://hitsofcode.com/view/github/harrytran103/night-owl-pantheon)
+[![GitHub](https://img.shields.io/github/license/harrytran103/night-owl-pantheon.svg)](https://github.com/harrytran103/night-owl-pantheon/blob/master/LICENSE)
 
 > 🌌🦉Night Owl theme for Pantheon terminal.
 
@@ -10,13 +10,13 @@
 ## Install
 
 ```sh
-$ sh -c "$(curl -sSL https://raw.githubusercontent.com/kimcuong060498/night-owl-pantheon/master/install.sh)"
+$ sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/night-owl-pantheon/master/install.sh)"
 ```
 
 ## Uninstall
 
 ```sh
-$ sh -c "$(curl -sSL https://raw.githubusercontent.com/kimcuong060498/night-owl-pantheon/master/uninstall.sh)"
+$ sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/night-owl-pantheon/master/uninstall.sh)"
 ```
 
 ## License
