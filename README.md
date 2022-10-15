@@ -10,13 +10,13 @@
 ## Install
 
 ```sh
-$ sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/night-owl-pantheon/master/install.sh)"
+sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/night-owl-pantheon/master/install.sh)"
 ```
 
 ## Uninstall
 
 ```sh
-$ sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/night-owl-pantheon/master/uninstall.sh)"
+sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/night-owl-pantheon/master/uninstall.sh)"
 ```
 
 ## License
